@@ -66,4 +66,4 @@ The following visualizations illustrate the customer groups:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Customer-Segmentation-KMeans.git
+   git clone https://github.com/shy-rs/Customer-Segmentation-KMeans.git
